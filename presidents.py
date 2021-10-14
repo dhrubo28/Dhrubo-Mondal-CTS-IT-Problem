@@ -7,7 +7,7 @@
 # [6] https://towardsdatascience.com/how-to-easily-create-tables-in-python-2eaea447d8fd
 # [7] https://www.geeksforgeeks.org/how-to-make-a-table-in-python/
 # [8] https://matplotlib.org/stable/tutorials/introductory/pyplot.html
-# not implemented (lines 159-164) - https://docs.python.org/3/library/collections.html
+# not implemented (lines 13, 159-164) - https://docs.python.org/3/library/collections.html
 
 import csv
 from typing import Counter
