@@ -202,6 +202,12 @@ def main():
                 plt.xlabel("Days Lived")
                 plt.ylabel("Mean of Days Lived")
                 plt.show()
+                
+                # [8] plot for weighted mean of days lived
+                plt.plot(lived_days, weighted_mean)
+                plt.xlabel("Days Lived")
+                plt.ylabel("Weighted Mean")
+                plt.show()
 
                 # [8] plot for median of days lived
                 plt.plot(lived_days, median)
